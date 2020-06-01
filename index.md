@@ -10,6 +10,14 @@ I received my Ph.D. in Computer Science from Carnegie Mellon University, where I
 
 I received my B.Tech. (Hons.) in Computer Science and Engineering from Indian Institute of Technology Madras in 2015.
 
+# Contact
+
+**Email:** d[last_name][at]amazon.com\\
+**Web:** [https://dhivyaeswaran.github.io](https://dhivyaeswaran.github.io)\\
+**Address:**\\
+101 Lytton Avenue\\
+Palo Alto, CA 94301
+
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
