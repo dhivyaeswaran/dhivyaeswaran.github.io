@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+## About Me
 
 Since May 2020, I'm an Applied Scientist at Amazon A9 working on neural information retrieval.
 
@@ -12,7 +12,7 @@ Outside of work, I love board games and puzzles, enjoy reading and cooking, and 
 
 My CV is [here](./CV.pdf).
 
-# Publications
+## Publications
 
 - **On How People Navigate Through Their Personal Web of Things**\\
   *Dhivya Eswaran*, Shamsi Iqbal, Adam Fourney, Shane Williams, Paul Bennett\\
