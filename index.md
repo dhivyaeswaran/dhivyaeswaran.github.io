@@ -10,6 +10,7 @@ I received my Ph.D. in Computer Science from Carnegie Mellon University, where I
 
 Outside of work, I love board games and puzzles, enjoy reading and cooking, and am always on the lookout for opportunities to travel and explore. I can (easily) be bribed with a good chai tea latte and some spicy *biriyani*.
 
+My CV is [here](./CV.pdf).
 
 # Publications
 
@@ -67,7 +68,7 @@ Outside of work, I love board games and puzzles, enjoy reading and cooking, and 
 
 - **Modeling Website Topic Cohesion at Scale to Improve Webpage Classification**\\
   *Dhivya Eswaran*, Paul N. Bennett, Joseph J. Pfeiffer III\\
-  SIGIR 2015 [[pdf]](./papers/sigir15-cohesion.pdf)
+  SIGIR 2015 [[paper]](./papers/sigir15-cohesion.pdf)
 
 - **Towards Creating Pedagogic Views from Encyclopedic Resources**\\
   Ditty Mathew, *Dhivya Eswaran*, Sutanu Chakraborti\\
