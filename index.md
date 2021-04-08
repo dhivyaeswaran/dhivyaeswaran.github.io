@@ -4,11 +4,11 @@ layout: default
 
 ## About Me
 
-Since May 2020, I'm an Applied Scientist at Amazon A9 working on neural information retrieval.
+Since May 2020, I'm an Applied Scientist at Amazon. I help innovate, develop, evaluate, and launch deep-learned models to fuel next-generation Amazon Search, with a focus on improving search quality in new and emerging locales.
 
 I received my Ph.D. in Computer Science from Carnegie Mellon University, where I was advised by [Prof. Christos Faloutsos](http://www.cs.cmu.edu/~christos/) and supported partially by the [Snap Graduate Fellowship](https://snapresearchfs.splashthat.com/). My [thesis](./papers/dissertation.pdf) focused on anomaly detection and semi-supervised learning in graphs. Prior to that, I received my B.Tech. (Hons.) in Computer Science and Engineering from Indian Institute of Technology Madras in 2015.
 
-Outside of work, I love board games and puzzles, enjoy reading and cooking, and am always on the lookout for opportunities to travel and explore. I can (easily) be bribed with a good chai tea latte and some spicy *biriyani*.
+Outside of work, I like to run, play board games, solve puzzles, read, and travel. I am also learning *kathak*, a North Indian classical dance. I can be bribed with a good chai tea latte, some spicy *biriyani*, and a *basundhi*.
 
 My CV is [here](./CV.pdf).
 
