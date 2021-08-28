@@ -85,7 +85,8 @@ My CV is [here](./CV.pdf).
 
 - **Towards Creating Pedagogic Views from Encyclopedic Resources**\\
   Ditty Mathew, Dhivya Eswaran, Sutanu Chakraborti\\
-  NAACL 2015 Workshop on Innovative Use of NLP for Building Educational Applications [[paper]](./papers/naacl15-pedagogy.pdf)
+  *NAACL 2015 Workshop on Innovative Use of NLP for Building Educational Applications*\\
+  [[paper]](./papers/naacl15-pedagogy.pdf)
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
