@@ -20,55 +20,68 @@ My CV is [here](./CV.pdf).
 
 - **Higher-Order Label Homogeneity and Spreading in Graphs**\\
   *Dhivya Eswaran*, Srijan Kumar, Christos Faloutsos\\
-  TheWebConf 2020 [[paper]](./papers/www20-hols.pdf) [[code]](https://github.com/dhivyaeswaran/hols)
+  The Web Conference (WWW) 2020\\
+  [[paper]](./papers/www20-hols.pdf) [[code]](https://github.com/dhivyaeswaran/hols)
 
 - **Intervention-Aware Early Warning**\\
   *Dhivya Eswaran*, Christos Faloutsos, Nina Mishra, Yonatan Naamad\\
-  ICDM 2019 [[paper]](./papers/icdm19-smokealarm.pdf) [[supplementary]](papers/icdm19-smokealarm-sup.pdf)
+  IEEE International Conference on Data Mining (ICDM) 2019\\
+  [[paper]](./papers/icdm19-smokealarm.pdf) [[supplementary]](papers/icdm19-smokealarm-sup.pdf)
 
 - **SedanSpot: Detecting Anomalies in Edge Streams**\\
   *Dhivya Eswaran*, Christos Faloutsos\\
-  ICDM 2018 [[paper]](./papers/icdm18-sedanspot.pdf) [[supplementary]](papers/icdm18-sedanspot-sup.pdf) [[code]](https://github.com/dhivyaeswaran/sedanspot)
+  IEEE International Conference on Data Mining (ICDM) 2018\\
+  [[paper]](./papers/icdm18-sedanspot.pdf) [[supplementary]](papers/icdm18-sedanspot-sup.pdf) [[code]](https://github.com/dhivyaeswaran/sedanspot)
 
 - **ChangeDAR: Online Localized Change Detection for Sensor Data on a Graph**\\
   Bryan Hooi, Leman Akoglu, *Dhivya Eswaran*, Amritanshu Pandey, Marko Jereminov, Larry Pileggi, Christos Faloutsos\\
-  CIKM 2018 [[paper]](./papers/cikm18-changedar.pdf)
+  ACM International Conference on Information and Knowledge Management (CIKM) 2018\\
+  [[paper]](./papers/cikm18-changedar.pdf)
 
 - **Social-Affiliation Graphs: Patterns and the SOAR Model**\\
   *Dhivya Eswaran*, Reihaneh Rabbany, Artur Dubrawski, Christos Faloutsos\\
-  ECML/PKDD 2018 [[paper]](./papers/pkdd18-soar.pdf)  [[code]](https://github.com/dhivyaeswaran/soar)
+  Joint European conference on machine learning and knowledge discovery in databases (ECML/PKDD) 2018\\
+  [[paper]](./papers/pkdd18-soar.pdf) [[code]](https://github.com/dhivyaeswaran/soar)
 
 - **GridWatch: Sensor Placement and Anomaly Detection in the Electrical Grid**\\
   Bryan Hooi, *Dhivya Eswaran*, Hyun Ah Song, Amritanshu Pandey, Marko Jereminov, Larry Pileggi, Christos Faloutsos\\
-  ECML/PKDD 2018 [[paper]](./papers/pkdd18-gridwatch.pdf) [[code]](https://github.com/bhooi/gridwatch)
+  Joint European conference on machine learning and knowledge discovery in databases (ECML/PKDD) 2018\\
+  [[paper]](./papers/pkdd18-gridwatch.pdf) [[code]](https://github.com/bhooi/gridwatch)
 
 - **Beyond Anomaly Detection: LookOut for Pictorial Explanation**\\
   Nikhil Gupta, *Dhivya Eswaran*, Neil Shah, Leman Akoglu, Christos Faloutsos\\
-  ECML/PKDD 2018 [[paper]](./papers/pkdd18-lookout.pdf) [[code]](https://github.com/NikhilGupta1997/Lookout)
+  Joint European conference on machine learning and knowledge discovery in databases (ECML/PKDD) 2018\\
+  [[paper]](./papers/pkdd18-lookout.pdf) [[code]](https://github.com/NikhilGupta1997/Lookout)
 
 - **SpotLight: Detecting Anomalies in Streaming Graphs**\\
   *Dhivya Eswaran*, Christos Faloutsos, Sudipto Guha, Nina Mishra\\
-  KDD 2018 [[paper]](./papers/kdd18-spotlight.pdf) [[video]](https://www.youtube.com/watch?v=S8AhKd7h-hE)
+  ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD) 2018\\
+  [[paper]](./papers/kdd18-spotlight.pdf) [[video]](https://www.youtube.com/watch?v=S8AhKd7h-hE)
 
 - **Beyond Assortativity: Proclivity Index for Attributed Networks** \\
   Reihaneh Rabbany, *Dhivya Eswaran*, Artur Dubrawski, Christos Faloutsos\\
-  PAKDD 2017 [[paper]](./papers/pakdd17-prone.pdf) [[code]](https://github.com/rabbanyk/ProclivityIndex)
+  Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2017\\
+  [[paper]](./papers/pakdd17-prone.pdf) [[code]](https://github.com/rabbanyk/ProclivityIndex)
 
 - **ZooBP: Belief Propagation for Heterogeneous Networks**\\
   *Dhivya Eswaran*, Stephan Guennemann, Christos Faloutsos, Disha Makhija, Mohit Kumar\\
-  VLDB 2017 [[paper]](./papers/vldb17-zoobp.pdf) [[code]](./code/zoobp.zip)
+  International Conference on Very Large Data Bases (VLDB) 2017\\
+  [[paper]](./papers/vldb17-zoobp.pdf) [[code]](./code/zoobp.zip)
 
 - **Why You Should Charge Your Friends for Borrowing Your Stuff**\\
   Kijung Shin, Euiwoong Lee, *Dhivya Eswaran*, Ariel D. Procaccia\\
-  IJCAI 2017 [[paper]](./papers/ijcai17-borrow.pdf)
+  International Joint Conference on Artificial Intelligence (IJCAI) 2017\\
+  [[paper]](./papers/ijcai17-borrow.pdf)
 
 - **The Power of Certainty: A Dirichlet-Multinomial Model for Belief Propagation**\\
   *Dhivya Eswaran*, Stephan Guennemann, Christos Faloutsos\\
-  SDM 2017 [[paper]](./papers/sdm17-netconf.pdf) [[code]](code/netconf.zip)
+  SIAM International Conference on Data Mining (SDM) 2017\\
+  [[paper]](./papers/sdm17-netconf.pdf) [[code]](code/netconf.zip)
 
 - **Modeling Website Topic Cohesion at Scale to Improve Webpage Classification**\\
   *Dhivya Eswaran*, Paul N. Bennett, Joseph J. Pfeiffer III\\
-  SIGIR 2015 [[paper]](./papers/sigir15-cohesion.pdf)
+  ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2015\\
+  [[paper]](./papers/sigir15-cohesion.pdf)
 
 - **Towards Creating Pedagogic Views from Encyclopedic Resources**\\
   Ditty Mathew, *Dhivya Eswaran*, Sutanu Chakraborti\\
