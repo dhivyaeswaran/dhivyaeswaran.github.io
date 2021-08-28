@@ -16,7 +16,8 @@ My CV is [here](./CV.pdf).
 
 - **On How People Navigate Through Their Personal Web of Things**\\
   Dhivya Eswaran, Shamsi Iqbal, Adam Fourney, Shane Williams, Paul Bennett\\
-  *CHI 2020 Workshop on Speculative Designs for Emergent Personal Data Trails: Signs, Signals and Signifiers* [[paper]](./papers/chi2020-personalweb.pdf)
+  *CHI 2020 Workshop on Speculative Designs for Emergent Personal Data Trails: Signs, Signals and Signifiers*\\
+  [[paper]](./papers/chi2020-personalweb.pdf)
 
 - **Higher-Order Label Homogeneity and Spreading in Graphs**\\
   Dhivya Eswaran, Srijan Kumar, Christos Faloutsos\\
